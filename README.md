@@ -1,2 +1,3 @@
 # Python-Basic-with-Myanmar-Language
-I write Python for begineer with our Own Language(Myanmar)
+ကျွန်မ Programming Language ကို လေ့လာရတာ များသောအားဖြင့် English လိုမျိုးရေးထားတော့ လေ့လာရတာနားမလည်တာတွေ ဖြစ်လာရင် မြန်မာလို နားလည်ရ လွယ်အောင်ရေးထားတဲ့ site လေးတွေ ရှိချင်မိတယ် ဒါကြောင့် ကျွန်မ လေ့လာဖြစ်တဲ့ အရာလေးတွေကို တက်နိုင်သလောက်ပြန်ရေးပေးထားပါတယ် ကျွန်မ လုပ်ဖြစ်တဲ့ Exercise လေးတွေ ရော တင်ပေးထားပါတယ်
+
